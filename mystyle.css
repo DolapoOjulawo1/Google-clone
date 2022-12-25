@@ -1,0 +1,27 @@
+* {
+    box-sizing: border-box;
+}
+
+.section_1 {
+    display: flex;
+    gap
+}
+
+.about {
+    display: flex;
+}
+
+summary 
+{
+    font-size: 18px;
+}
+
+details {
+    font-size: 18px;
+
+}
+
+span  {
+    color: #70757a;
+    font-size: 12px;
+}
