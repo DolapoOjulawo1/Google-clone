@@ -1,0 +1,55 @@
+.news-spacing {
+    padding-bottom: 40px;
+}
+
+.flex {
+    display: flex;
+}
+
+.videos {
+    font-size: 22px;
+    line-height: 24px;
+    font-family: Arial, sans-serif;
+    font-weight: 400;
+}
+
+.about-messi2 {
+    font-weight: 400;
+    color: black;
+}
+
+.about-Messi2 {
+    border: 1px solid #e5f1f5;
+    border-radius: 15px;
+    background-color: #e5f1f5;
+    max-width: none;
+    min-height: 40px;
+    font-size: 16px;
+}
+
+.space-between{
+    padding-left: 20px;
+}
+
+ol {
+    list-style: none;
+    display: flex;
+    padding-left: 400px;
+    padding-left: 10px;
+}
+
+.spacing1 {
+    padding-left: 400px;
+}
+
+.spacing2 {
+    padding-left: 30px;
+}
+
+.spacing3 {
+    padding-left: 15px;
+}
+
+.hyperlink-color {
+    color: #4285f4;
+}
