@@ -2,26 +2,174 @@
     box-sizing: border-box;
 }
 
+#about-result {
+    font-family:Google Sans,arial,sans-serif;
+    color: #70757a;
+    line-height: 43px;
+    padding-top: 0px;
+    padding-bottom: 0;
+    padding-right: 8px;
+    font-size: 14px;
+}
+
+#lionel-messi {
+    color: #202124;
+    font-family: Google Sans,arial,sans-serif-medium,sans-serif;
+    font-size: 28px;
+    line-height: 36px;
+}
+
 .section_1 {
     display: flex;
-    gap
 }
 
 .about {
     display: flex;
 }
 
-summary 
-{
-    font-size: 18px;
+.top-stories{
+    color: black;
+    font-size: 22px;
+    font-family: arial, sans-serif;
+    font-weight: 400;
+    line-height: 24px;
+    padding-left: 160px;
+    display: block;
 }
 
-details {
+a {
+    text-decoration: none;
+}
+.about-worldcup1 {
+    text-decoration: none;
+}
+.about-worldcup {
+    color: black;
     font-size: 18px;
+    font-family: arial, sans-serif;
+    font-weight: 400;
+    line-height: 24px;
+    padding-left: 160px;
+    display: block;
+}
 
+.about-worldcup2 {
+    color: black;
+    font-size: 18px;
+    font-weight: 400;
+    font-family: Arial, sans-serif;
+    line-height: 24px;
+}
+
+.different-news {
+    display: flex;
+    padding-left: 160px;
+}
+
+.different1-news {
+    color: #1a0dab;
+    cursor: pointer;
+    font-family: arial, sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    text-decoration-thickness: auto;
+}
+
+.different2-news{
+    color:  #681da8;
+    cursor: pointer;
+    font-family: arial, sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    text-decoration-thickness: auto;
+}
+
+.different3-news {
+    padding-left: 20px;
+}
+
+.vertical-line {
+    border-left: 3px solid whitesmoke;
+    height: 1500px;
+}
+
+.about-lionelmessi {
+    padding-left: 30px;
+    font-size: 14px;
+    font-family: arial, sans-serif;
+    line-height: 22.12px;
+    display: block;
+}
+
+.knowledge-panel {
+    display: flex;
+    gap: 30px;
+}
+
+.claim-knowledge {
+    padding-left: 8px 16px 8px 36px;
+    color:  #4d5156;
+    line-height: 1.58;
+    border: 1px solid grey;
+    height: 27px;
+    border-radius: 10px;
+}
+
+.feedback {
+    font-size: 12px;
+    text-align: right;
+    color: black;
+    padding-top: 20px;
+}
+.news{
+    padding-left: 160px;
+}
+
+.time {
+    font-size: 14px;
+    font-weight: normal;
+    color: #70757a;
+    line-height: 16px;
+}
+
+.image-styling {
+    border-radius: 5px;
+}
+
+.image-spacing {
+    padding-left: 15px;
+}
+
+#about1 {
+    font-size: 18px;
+    color: black;
+    line-height: 24px;
 }
 
 span  {
     color: #70757a;
     font-size: 12px;
 }
+
+.more-news {
+    font-size: 14px;
+    font-weight: 400;
+    font-family: arial, sans-serif;
+    text-align: center;
+}
+
+.more-news1 {
+    color: black;
+    font-style: normal;
+    
+}
+
+.more-news3 {
+    color: rgb(26, 13, 171);
+    font-size: 20px;
+    font-weight: 400;
+}
+
+
