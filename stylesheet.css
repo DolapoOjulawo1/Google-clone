@@ -81,5 +81,9 @@ ol {
 
 .horizontal-line {
     border: 2px solid whitesmoke;
-    max-width: 600px;
+    max-width: 700px;
+}
+
+.feedBack {
+    text-align: center;
 }

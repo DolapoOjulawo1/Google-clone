@@ -23,6 +23,52 @@
     display: flex;
 }
 
+.section1-1 {
+    border: 1px solid blue;
+    border-radius: 100px;
+    background-color: #C2DBFF;
+    width: 100px;
+    height: 40px;
+}
+.section1-3 {
+    border: 1px solid #C2DBFF;
+    border-radius: 100px;
+    background-color: #C2DBFF;
+    width: 70px;
+    height: 40px;
+}
+
+.section1-4 {
+    border: 1px solid #C2DBFF;
+    border-radius: 100px;
+    background-color: #C2DBFF;
+    width: 80px;
+    height: 40px;
+}
+.footballer {
+    color: #5F6368;
+    display: inline-block;
+    font-family: arial,sans-serif;
+    font-size: 14px;
+    line-height: 22px;
+}
+
+.spaciing {
+    padding-left: 40px;
+}
+
+.spaciing1 {
+    padding-left: 20px;
+}
+.section1-2 {
+    align-items: center;
+    color: #0060F0;
+    font-size: 14px;
+    padding-left: 20px;
+    font-family: Google Sans,arial,sans-serif;
+    line-height: 30px;
+}
+
 .about {
     display: flex;
 }
@@ -124,10 +170,31 @@ a {
     padding-top: 20px;
 }
 
+.spacing-down {
+    padding-top: 30px;
+}
+
 .spacing {
     padding-left: 160px;
 }
 
+.peoplealso-search {
+    border: 1px solid black;
+    max-width: 500px;
+}
+.spacing1-flex {
+    padding-left: 10px;
+}
+
+.spacing-flex {
+    padding-left: 30px;
+}
+
+.peoplealso-ask {
+    color: #202124;
+    font-size: 22px;
+    line-height: 24px;
+}
 .time {
     font-size: 14px;
     font-weight: normal;
