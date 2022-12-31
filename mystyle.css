@@ -2,6 +2,17 @@
     box-sizing: border-box;
 }
 
+.tools {
+    border: 1px solid transparent;
+    text-align: center;
+    border-radius: 2px;
+    line-height: 19px;
+    cursor: pointer;
+    margin-left: -1px;
+    padding: 4px 11px;
+    margin-right: -11px;
+}
+
 #about-result {
     font-family:Google Sans,arial,sans-serif;
     color: #70757a;
@@ -68,6 +79,53 @@
     font-family: Google Sans,arial,sans-serif;
     line-height: 30px;
 }
+
+.image-width1 {
+    width: 253px;
+}
+
+.image-width {
+    width: 253px;
+    height: 300px;
+}
+
+.flex2 {
+    display: flex;
+    padding-top: 30px;
+}
+
+.flex3 {
+    padding-left: 2px;
+}
+.argentina-worldcup {
+    border: 1px solid #C2DBFF;
+    border-radius: px;
+    background-color: #C2DBFF;
+    width: 253px;
+    height: 300px;
+    padding-left: 95px;
+}
+
+.age {
+    border: 1px solid #C2DBFF;
+    border-radius: px;
+    background-color: #C2DBFF;
+    width: 253px;
+    height: 300px;
+    padding-left: 95px;
+}
+.image-width2 {
+    padding-top: 30px;
+    font-family: Google Sans,arial,sans-serif;
+    font-size: 20px;
+    line-height: 24px;
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    white-space: normal;
+}
+
 
 .about {
     display: flex;
