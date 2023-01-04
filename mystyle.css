@@ -2,28 +2,198 @@
     box-sizing: border-box;
 }
 
+.fllex {
+    display: flex;
+    flex-direction: row;
+}
+
+.spacinng {
+    padding-left: 50px;
+}
+
+.space-page {
+    padding-top: 20px;
+}
+.border {
+    height: 35px;
+    border-radius: 100px;
+    display: flex;
+    z-index: 3;
+    height: 44px;
+    background: #fff;
+    border: 1px solid transparent;
+    box-shadow: 0 2px 5px 1px rgb(64 60 67 / 16%);
+    border-radius: 24px;
+    margin: 0 auto;
+    width: 700px;
+}
+
+.cancel-icon {
+    
+}
+.pad-left {
+    padding-left: 200px;
+}
+
+.searchh {
+    background-color: transparent;
+    border: none;
+    margin: 0;
+    padding-top: 55px;
+    padding-left: 10px;
+    color: rgba(0,0,0,.87);
+    word-wrap: break-word;
+    outline: none;
+    -webkit-tap-highlight-color: transparent;
+    margin-top: -37px;
+    font-size: 16px;
+    margin-top: -42px
+}
+
+.searchh {
+    background-color: transparent;
+    border: none;
+    margin: 0;
+    padding-top: 55px;
+    padding-left: 10px;
+    color: rgba(0,0,0,.87);
+    word-wrap: break-word;
+    outline: none;
+    -webkit-tap-highlight-color: transparent;
+    margin-top: -37px;
+    font-size: 16px;
+    margin-top: -42px
+}
+
+.search11 {
+    background-color: transparent;
+    border: none;
+    margin: 0;
+    padding-top: 55px;
+    padding-left: 190px;
+    color: rgba(0,0,0,.87);
+    word-wrap: break-word;
+    outline: none;
+    -webkit-tap-highlight-color: transparent;
+    margin-top: -37px;
+    font-size: 16px;
+    margin-top: -42px
+}
+
+.searchh1 {
+    background-color: transparent;
+    border: none;
+    margin: 0;
+    padding-top: 55px;
+    padding-left: 10px;
+    color: rgba(0,0,0,.87);
+    word-wrap: break-word;
+    outline: none;
+    -webkit-tap-highlight-color: transparent;
+    margin-top: -37px;
+    font-size: 16px;
+    margin-top: -42px
+}
+
+.google-style {
+    height: 33px;
+    width: 92px;
+}
+
+.search-by-voice {
+    height: 24px;
+    width: 24px;
+}
+
+.signin {
+    color: white;
+    background: #1a73e8;
+    border: 1px solid transparent;
+    font-family: Google Sans,Roboto,Helvetica,Arial,sans-serif;
+    font-weight: 500;
+    font-size: 14px;
+    letter-spacing: 0.25px;
+    line-height: 16px;
+    padding: 9px 15px;
+    text-align: center;
+    border-radius: 4px;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+.span2 {
+    display: inline-block;
+    fill: currentColor;
+}
+
+.span1 {
+    margin-right: 5px;
+    vertical-align: text-bottom;
+}
+
+.pad1-left {
+    padding-left: 250px;
+}
+
 .tools {
     border: 1px solid transparent;
     text-align: center;
     border-radius: 2px;
     line-height: 19px;
     cursor: pointer;
-    margin-left: -1px;
-    padding: 4px 11px;
-    margin-right: -11px;
+    font-size: 14px;
+    font-family: "Google Sans", arial, sans-serif;
+}
+
+.svg-items {
+    height: 16px;
+    width: 16px;
+}
+
+.blue-line {
+    background: #1a73e8;
+    width: 35px;
+    height: 3px;
+    margin-top: 11px;
+}
+
+.span3 {
+    margin-left: -4px;
+    vertical-align: text-bottom;
+}
+
+.span4 {
+    display: inline-block;
+    fill: currentColor;
+    height: 24px;
+    line-height: 24px;
+    position: relative;
+    width: 24px;
+}
+
+.space-font {
+    font-size: 14px;
+    color: black;
+}
+
+.space-font-blue {
+    font-size: 14px;
+    color: blue;
 }
 
 #about-result {
     font-family:Google Sans,arial,sans-serif;
     color: #70757a;
     line-height: 43px;
-    padding-top: 0px;
-    padding-bottom: 0;
     padding-right: 8px;
     font-size: 14px;
+    padding-bottom: 35px;
+}
+.lionel1 {
+    padding-bottom: 700px;
 }
 
-#lionel-messi {
+.lionel-messi {
     color: #202124;
     font-family: Google Sans,arial,sans-serif-medium,sans-serif;
     font-size: 28px;
@@ -80,8 +250,20 @@
     line-height: 30px;
 }
 
+.image-widthh {
+    width: 303px;
+    height: 315px;
+    border-top-left-radius: 25px;
+    border-bottom-left-radius: 25px;
+}
+
+.border-radius-styling {
+    border-bottom-right-radius: 25px;
+}
+
 .image-width1 {
     width: 253px;
+    border-top-right-radius: 25px;
 }
 
 .image-width {
@@ -97,22 +279,69 @@
 .flex3 {
     padding-left: 2px;
 }
-.argentina-worldcup {
+
+.argentina-worldcup1 {
     border: 1px solid #C2DBFF;
-    border-radius: px;
+    border-radius: 25px;
     background-color: #C2DBFF;
-    width: 253px;
+    width: 259px;
     height: 300px;
-    padding-left: 95px;
+    padding-left: 20px;
+}
+.argentina-worldcup {
+    padding-left: 25px;
+}
+
+.argentina1-worldcup {
+    padding-left: 35px;
 }
 
 .age {
     border: 1px solid #C2DBFF;
-    border-radius: px;
+    border-radius: 25px;
     background-color: #C2DBFF;
-    width: 253px;
-    height: 300px;
-    padding-left: 95px;
+    width: 120px;
+    height: 130px;
+}
+.age2 {
+    padding-right: 10px;
+    font-family: Google Sans,arial,sans-serif;
+    font-size: 14px;
+    line-height: 15px;
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    white-space: normal;
+    font-family: 'Segoe UI', Tahoma, sans-serif;
+    color: black;
+}
+
+.agge2 {
+    padding-right: 10px;
+    font-family: Google Sans,arial,sans-serif;
+    font-size: 14px;
+    line-height: 15px;
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    white-space: normal;
+    font-family: 'Segoe UI', Tahoma, sans-serif;
+    color: black;
+}
+
+.forbes {
+    height: 150px;
+    border-radius: 100px;
+    display: flex;
+    z-index: 3;
+    background: #fff;
+    border: 1px solid transparent;
+    box-shadow: 0 2px 5px 1px rgb(64 60 67 / 16%);
+    border-radius: 24px;
+    margin: 0 auto;
+    width: 255px;
 }
 .image-width2 {
     padding-top: 30px;
@@ -126,6 +355,17 @@
     white-space: normal;
 }
 
+.stats {
+    ;padding-top: 5px;
+    font-family: Google Sans,arial,sans-serif;
+    font-size: 14px;
+    line-height: 24px;
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    white-space: normal
+}
 
 .about {
     display: flex;
@@ -214,11 +454,13 @@ a {
 
 .claim-knowledge {
     padding-left: 8px 16px 8px 36px;
-    color:  #4d5156;
     line-height: 1.58;
-    border: 1px solid grey;
+    background: #fff;
+    border: 1px solid transparent;
+    box-shadow: 0 2px 5px 1px rgb(64 60 67 / 16%);
+    border-radius: 24px;
     height: 27px;
-    border-radius: 10px;
+    
 }
 
 .feedback {
@@ -226,6 +468,11 @@ a {
     text-align: right;
     color: black;
     padding-top: 20px;
+}
+
+.image-styling2 {
+    width: 90px;
+    height: 60px;
 }
 
 .spacing-down {
@@ -297,5 +544,3 @@ span  {
     font-size: 20px;
     font-weight: 400;
 }
-
-

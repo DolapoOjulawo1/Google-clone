@@ -42,7 +42,7 @@
 }
 
 .about-Messi2 {
-    border: 1px solid #e5f1f5;
+    border: 1px solid transparent;
     border-radius: 15px;
     background-color: #e5f1f5;
     max-width: none;
@@ -97,3 +97,4 @@ ol {
 .feedBack {
     text-align: center;
 }
+
