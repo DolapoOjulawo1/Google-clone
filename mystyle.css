@@ -25,12 +25,9 @@
     box-shadow: 0 2px 5px 1px rgb(64 60 67 / 16%);
     border-radius: 24px;
     margin: 0 auto;
-    width: 700px;
+    width: 670px;
 }
 
-.cancel-icon {
-    
-}
 .pad-left {
     padding-left: 200px;
 }
@@ -65,12 +62,15 @@
     margin-top: -42px
 }
 
+.image-styling {
+    border-radius: 5px;
+}
 .search11 {
     background-color: transparent;
     border: none;
     margin: 0;
-    padding-top: 55px;
-    padding-left: 190px;
+    padding-top: 50px;
+    padding-left: 300px;
     color: rgba(0,0,0,.87);
     word-wrap: break-word;
     outline: none;
@@ -78,6 +78,10 @@
     margin-top: -37px;
     font-size: 16px;
     margin-top: -42px
+}
+
+.border-color {
+    background-color: rgba(226,238,255,0.5);
 }
 
 .searchh1 {
@@ -303,6 +307,7 @@
     width: 120px;
     height: 130px;
 }
+
 .age2 {
     padding-right: 10px;
     font-family: Google Sans,arial,sans-serif;
@@ -356,7 +361,7 @@
 }
 
 .stats {
-    ;padding-top: 5px;
+    padding-top: 5px;
     font-family: Google Sans,arial,sans-serif;
     font-size: 14px;
     line-height: 24px;
@@ -371,7 +376,7 @@
     display: flex;
 }
 
-.top-stories{
+.top-stories {
     color: black;
     font-size: 22px;
     font-family: arial, sans-serif;
@@ -384,9 +389,11 @@
 a {
     text-decoration: none;
 }
+
 .about-worldcup1 {
     text-decoration: none;
 }
+
 .about-worldcup {
     color: black;
     font-size: 18px;
@@ -420,7 +427,7 @@ a {
     text-decoration-thickness: auto;
 }
 
-.different2-news{
+.different2-news {
     color:  #681da8;
     cursor: pointer;
     font-family: arial, sans-serif;
@@ -470,11 +477,6 @@ a {
     padding-top: 20px;
 }
 
-.image-styling2 {
-    width: 90px;
-    height: 60px;
-}
-
 .spacing-down {
     padding-top: 30px;
 }
@@ -484,8 +486,8 @@ a {
 }
 
 .peoplealso-search {
-    border: 1px solid black;
-    max-width: 500px;
+    border: 2px solid whitesmoke;
+    max-width: 400px;
 }
 .spacing1-flex {
     padding-left: 10px;
@@ -505,10 +507,6 @@ a {
     font-weight: normal;
     color: #70757a;
     line-height: 16px;
-}
-
-.image-styling {
-    border-radius: 5px;
 }
 
 .image-spacing {
