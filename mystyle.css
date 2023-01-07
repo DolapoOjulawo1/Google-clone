@@ -201,6 +201,28 @@
     color: blue;
 }
 
+.inner {
+    display: table;
+    width: 200px;
+    height: 10px;
+}
+
+#outer {
+    display: table;
+    width: 300px;
+    height: 10px;
+}
+
+.hori-line {
+    border: 1px solid black;
+    max-width: 500px;
+}
+th, td {
+    padding: 8px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+}
+
 #about-result {
     font-family:Google Sans,arial,sans-serif;
     color: #70757a;
@@ -211,6 +233,12 @@
 }
 .lionel1 {
     padding-bottom: 700px;
+}
+
+.p-style {
+    font-size: 18px;
+    line-height: 24px;
+    color: #202124;
 }
 
 .lionel-messi {

@@ -31,10 +31,6 @@
     color: black;
 }
 
-.background {
-    background: url('https://www.google.com/images/nav_logo321.webp')
-}
-
 .blue,
 .red,
 .yellow {
@@ -42,8 +38,13 @@
     font-size: 15px;
 }
 
+.black1 {
+    color: #202124;
+}
+
 .search1-icon {
     padding-top: 5px;
+    padding-left: 10px;
 }
 
 .about-Messi2 {
@@ -53,6 +54,16 @@
     width: 300px;
     font-size: 16px;
     padding-bottom: 5px;
+}
+
+.about-Messi3 {
+    border: 1px solid transparent;
+    border-radius: 24px;
+    background-color: #e5f1f5;
+    max-width: 200px;
+    font-size: 16px;
+    padding-bottom: 5px;
+    text-align: center;
 }
 
 .image-styling1 {
@@ -101,11 +112,11 @@ ol {
 }
 
 .spacing2 {
-    padding-left: 30px;
+    padding-left: 100px;
 }
 
 .spacing3 {
-    padding-left: 20px;
+    padding-left: 10px;
 }
 
 .spacing4 {
@@ -114,6 +125,10 @@ ol {
 
 .spacing5 {
     padding-left: 0;
+}
+
+.spacing6 {
+    padding-left: 8px;
 }
 
 .hyperlink-color {
@@ -190,14 +205,39 @@ ol {
     font-weight: 400;
 }
 
-.g {
-    font-size: 35px;
-    color: #4285f4;
-    font-weight: 700;
+.googledesign-logo {
+    width: 28px;
 }
 
-.vertical-linee {
-    border-left: 1px solid black;
-    height: 40px;
+.googledesign-logo1 {
+    width: 18px;
+
 }
 
+
+.googledesign-logo2 {
+    height: 19px;
+ }
+
+
+
+
+.black {
+    color: black;
+    font-weight: bold;
+}
+.span-footer {
+    color: #1a0dab;
+    font-size: 14px;
+    font-family: arial, sans-serif;
+}
+
+.background-style {
+    background: #f2f2f2;
+    line-height: 40px;
+    padding-bottom: 12px;
+}
+
+.black2 {
+    color: #70757a;
+}
