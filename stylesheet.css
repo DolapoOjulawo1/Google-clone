@@ -34,6 +34,7 @@
 .background {
     background: url('https://www.google.com/images/nav_logo321.webp')
 }
+
 .blue,
 .red,
 .yellow {
@@ -41,13 +42,17 @@
     font-size: 15px;
 }
 
+.search1-icon {
+    padding-top: 5px;
+}
+
 .about-Messi2 {
     border: 1px solid transparent;
     border-radius: 24px;
     background-color: #e5f1f5;
-    max-width: none;
-    min-height: 40px;
+    width: 300px;
     font-size: 16px;
+    padding-bottom: 5px;
 }
 
 .image-styling1 {
@@ -81,7 +86,7 @@
     padding-left: 20px;
 }
 .space-between{
-    padding-left: 20px;
+    padding-left: 40px;
 }
 
 ol {
@@ -100,7 +105,7 @@ ol {
 }
 
 .spacing3 {
-    padding-left: 15px;
+    padding-left: 20px;
 }
 
 .spacing4 {
@@ -108,8 +113,7 @@ ol {
 }
 
 .spacing5 {
-    padding-left: 400px;
-    padding-left: 20px;
+    padding-left: 0;
 }
 
 .hyperlink-color {
@@ -134,8 +138,66 @@ ol {
     max-width: 400px;
 }
 
+
 .feedBack {
     padding-left: 540px;
+    color: #70757a;
+    display: flex;
+    font-size: 12px;
+    font-style: normal;
 }
 
+
+.aboutmesSi {
+    color: #70757a;
+    font-family: arial,sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 22px;
+}
+
+.a-one { 
+    color: #1a0dab;
+}
+
+
+.span-details {
+    font-size: 16px;
+    line-height: 24px;
+    padding: 0 8px 0 0;
+    font-family: arial, sans-serif;
+    font-weight: 400;
+    color: rgb(32, 33, 36);
+}
+
+.span-details1{
+    font-size: 14px;
+    font-weight: 400;
+    font-family: arial, sans-serif;
+    color: black;
+}
+
+.span-details2 {
+    color: rgb(26, 13, 171);
+    font-size: 20px;
+    font-weight: 400;
+    font-family: arial,sans-serif;
+}
+
+.span-details3 {
+    font-size: 16px;
+    font-family: arial, sans-serif;
+    font-weight: 400;
+}
+
+.g {
+    font-size: 35px;
+    color: #4285f4;
+    font-weight: 700;
+}
+
+.vertical-linee {
+    border-left: 1px solid black;
+    height: 40px;
+}
 

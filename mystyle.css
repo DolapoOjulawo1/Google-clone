@@ -65,6 +65,7 @@
 .image-styling {
     border-radius: 5px;
 }
+
 .search11 {
     background-color: transparent;
     border: none;
@@ -89,6 +90,21 @@
     border: none;
     margin: 0;
     padding-top: 55px;
+    padding-left: 10px;
+    color: rgba(0,0,0,.87);
+    word-wrap: break-word;
+    outline: none;
+    -webkit-tap-highlight-color: transparent;
+    margin-top: -37px;
+    font-size: 16px;
+    margin-top: -42px
+}
+
+.searchh12 {
+    background-color: transparent;
+    border: none;
+    margin: 0;
+    padding-top: 38px;
     padding-left: 10px;
     color: rgba(0,0,0,.87);
     word-wrap: break-word;
@@ -215,6 +231,7 @@
     width: 100px;
     height: 40px;
 }
+
 .section1-3 {
     border: 1px solid #C2DBFF;
     border-radius: 100px;
@@ -230,6 +247,7 @@
     width: 80px;
     height: 40px;
 }
+
 .footballer {
     color: #5F6368;
     display: inline-block;
@@ -348,6 +366,7 @@
     margin: 0 auto;
     width: 255px;
 }
+
 .image-width2 {
     padding-top: 30px;
     font-family: Google Sans,arial,sans-serif;
@@ -371,6 +390,30 @@
     -webkit-box-orient: vertical;
     white-space: normal
 }
+
+.stats1 {
+    color: black;
+    padding-top: 5px;
+    font-family: Google Sans,arial,sans-serif;
+    font-size: 14px;
+    line-height: 24px;
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    white-space: normal
+}
+
+.forbes1-logo {
+    width: 65px;
+    padding-top: 5px;
+}
+
+.forbesnews {
+    font-size: 16px;
+    color: black;
+}
+
 
 .about {
     display: flex;
@@ -443,7 +486,7 @@ a {
 
 .vertical-line {
     border-left: 3px solid whitesmoke;
-    height: 1500px;
+    height: 1200px;
 }
 
 .about-lionelmessi {
@@ -467,6 +510,8 @@ a {
     box-shadow: 0 2px 5px 1px rgb(64 60 67 / 16%);
     border-radius: 24px;
     height: 27px;
+    width: 250px;
+    color: black;
     
 }
 
@@ -519,7 +564,7 @@ a {
     line-height: 24px;
 }
 
-span  {
+.span-ago  {
     color: #70757a;
     font-size: 12px;
 }
